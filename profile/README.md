@@ -1,7 +1,6 @@
 # Welcome to D23E
 
-Welcome to D23E, a forefront leader in blockchain and DeFi security solutions. Our organization is deeply rooted in research, dedicated to pioneering advancements in security technologies. We specialize in the domain of decentralized finance (DeFi) and blockchain, where transparency, significant financial stakes, and unique data accessibility present both challenges and opportunities.
-
+Welcome to D23E, a forefront leader in blockchain and DeFi security solutions.
 
 # Our Mission
 
